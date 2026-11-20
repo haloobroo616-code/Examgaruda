@@ -1,0 +1,6 @@
+{
+  "name": "GardaUjian IX — Portal Ujian Sekolah Kelas 9",
+  "description": "Website ujian berbasis komputer (CBT) kelas 9 SMP (50 soal pilihan ganda: Matematika, IPA, PPKn, IPS, Bahasa Indonesia) dengan penjagaan ketat anti-keluar aplikasi dan pendeteksi browser/aplikasi AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
